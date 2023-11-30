@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta charset="utf-8" />
+</head>
+<div>
+	<table align="center" border="0" cellpadding="10" cellspacing="10"
+		width="100%"
+		style="background-color: #f3f3f3; padding-top: 50px; padding-bottom: 50px;">
+		<tr>
+			<td bgcolor="#f3f3f3">
+
+				<table align="center" border="1" cellpadding="0" cellspacing="0"
+					width="40%">
+
+					<tr>
+
+						<td bgcolor="#285C4D">
+
+							<p align="center">
+								<img src="cid:header.png"/>
+							</p>
+
+						</td>
+
+					</tr>
+
+					<tr>
+
+						<td bgcolor="#ffffff"
+							style="padding-left: 30px; padding-right: 30px; text-align: left; font-family: Montserrat; font-style: normal; font-size: 18px; color: #707070;">
+
+							<p>Buen d&iacute;a,</p>
+							<br/><br/>
+							<p>Hacemos de su conocimiento las siguientes cifras de la Bit&aacute;cora de la consulta del Dictamen a DATAMART.</p>
+							<br/><br/>
+							<p>&bull;	Fecha ${fechaEnvio}</p>
+							<p>&bull;	Total de registros que contiene la Bit&aacute;cora en la semana = ${TotalRegistros}</p>
+							<br/><br/>
+							<p>Saludos. </p>
+		
+		 <br /> <br /> <br /> <br />
+
+<br />
+						</td>
+
+					</tr>
+
+					<tr>
+
+						<td bgcolor="#393C3E">
+
+							<p align="center">
+								<img src="cid:footer.png" alt="FOOTER" />
+							</p>
+
+						</td>
+
+					</tr>
+					 <tr>
+ 	<td>
+ 	<p style="margin-top:0pt;margin-bottom:0pt;margin-left:0in;text-align:justify;"><span style='font-size:9px;font-family:"Montserrat Light";color:#595959;'>Este correo electr&oacute;nico y/o el material adjunto es para uso exclusivo de la persona o la entidad a la que expresamente se le ha enviado, el cual contiene informaci&oacute;n confidencial. Si no es el destinatario leg&iacute;timo del mismo, por favor rep&oacute;rtelo inmediatamente a la cuenta del remitente y elim&iacute;nelo. Cualquier revisi&oacute;n, almacenamiento, retransmisi&oacute;n, difusi&oacute;n o cualquier otro uso de este correo, por personas o entidades distintas a las del destinatario leg&iacute;timo, queda expresamente prohibida. Este correo electr&oacute;nico no pretende ni debe ser considerado como constitutivo de ninguna relaci&oacute;n legal, contractual o de otra &iacute;ndole similar.</span></p>
+ 	</td>
+ </tr>
+
+				</table>
+			</td>
+
+		</tr>
+	</table>
+</html>

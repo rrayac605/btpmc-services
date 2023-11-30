@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<meta charset="utf-8"/>
+</head>
+<div >
+<table align="center" border="0" cellpadding="10" cellspacing="10" width="100%" style="background-color:#f3f3f3; padding-top: 50px;padding-bottom: 50px;" >
+ <tr>
+<td bgcolor="#f3f3f3">
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="40%" >
+ 
+ <tr>
+
+<td bgcolor="#621132" >
+ 
+<p align="center" ><img  src="cid:header.png" alt="HEADER" /> </p>
+ 
+</td>
+ 
+ </tr>
+ 
+ <tr>
+ 
+<td bgcolor="#ffffff" style=" padding-left: 30px; padding-right: 30px; text-align: left; font-family: Montserrat; font-style: normal; font-size: 18px; color: #707070; ">
+ 
+		<br/><br/>
+        <p style=" font-weight: bold; font-size: 24px;">Estimado ${nombreCompleto}:</p>
+		
+		<p>${fechaEnvio}.<br>
+		${horaEnvio} hrs.</p>
+		
+        <p>Se le informa que el archivo proveniente del sistema ${sistemaOrigen} no ha sido depositado para su procesamiento.</p>
+		
+		<p>Le recordamos que las fechas para env&iacute;o son los d&iacute;as ${diasEnvio} de cada mes antes de las 6:00 hrs.</p>
+		
+		<p>Agradecemos su atenci&oacute;n y colaboraci&oacute;n.</p>
+		
+		<br/><br/>
+		<p>Atentamente.</p>
+		
+		<p>Divisi&oacute;n de Administraci&oacute;n de la Prima en el Seguro de Riesgos de Trabajo.</p>
+		
+		<p>Ext. 10454</p>
+		
+		<br/><br/><br/><br/>
+		<!--
+		<p align="center" ><a href="${urlConsultar}"><img    src="cid:consultar.png" alt="btnConsultar"  /></a> </p>
+		-->
+<br /> 
+ 
+</td>
+ 
+ </tr>
+ 
+ <tr>
+ 
+<td bgcolor="#393C3E" >
+ 
+        <p align="center" ><img  src="cid:footer.png" alt="FOOTER" /> </p>
+ 
+</td>
+ 
+ </tr>
+ 
+</table>
+</td>
+ 
+ </tr>
+</table>
+
+</html>
